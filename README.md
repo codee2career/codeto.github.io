@@ -4,7 +4,7 @@ This is the official website for **Code To Career India**, a platform to help st
 
 ## Live Website
 
-👉 Visit: https://raushan575/codeto.github.io
+👉 Visit: https://raushan575/codeto.github.io/
 
 ## What this site includes
 
